@@ -9,6 +9,4 @@ Todo
 ### Result
 As you can see, our traffic sign classifier is correctly recognizing our input traffic signs!
 
-![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/19.png)
-
-![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/7.png)
+![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/19.png) ![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/7.png)
