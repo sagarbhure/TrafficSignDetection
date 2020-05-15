@@ -8,5 +8,7 @@ Traffic sign recognition is just one of the problems that computer vision and de
 Todo
 ### Result
 As you can see, our traffic sign classifier is correctly recognizing our input traffic signs!
+
 ![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/19.png)
+
 ![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/7.png)
