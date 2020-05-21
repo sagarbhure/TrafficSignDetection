@@ -33,7 +33,7 @@ $ pip install tensorflow==2.0.0 # or tensorflow-gpu
 ### Prject Structure
 
 Working Directory should have: following structure.
-![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/folder_preview.PNG)
+![alt text](https://github.com/sagarbhure/TrafficSignDetection/blob/master/folder_preview.PNG = 250x250)
 
 ### Result
 As you can see, our traffic sign classifier is correctly recognizing our input traffic signs!
